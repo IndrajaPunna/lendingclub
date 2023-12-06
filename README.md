@@ -24,10 +24,13 @@ Table of Contents
 
 ## Conclusions
 
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Term: Percentage of people who defaulted in 60 months term is 25% compared to 36 months term which is
+  10.8%. Be cautious while giving loans for 60 months term.
+- Loan Amount: Around 16% of total loan amount is defaulted. Try to limit the exposure.
+- Employment length: People with employment length 10+ years have taken highest loan amount. Higher the
+  loan amount installments also rise which can cause a default. Be wary of them.
+- Last Credit Pull Date: The last credit data pulled for majority of defaulters is 7 years ago. Please make sure
+  credit pull is done at the earliest and give the loan.
 
 ## Technologies Used
 
